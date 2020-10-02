@@ -1666,7 +1666,7 @@
 /* @brief ADC converter B alternate trigger enable width (width of bit field ADCBALTTRGEN of register SOPT7). */
 #define FSL_FEATURE_SIM_OPT_ADCBALTTRGEN_WIDTH (0)
 /* @brief Has clock 2 output divider (register bit field CLKDIV1[OUTDIV2]). */
-#define FSL_FEATURE_SIM_DIVIDER_HAS_OUTDIV2 (1)
+#define FSL_FEATURE_SIM_DIVIDER_HAS_OUTDIV2 (2)
 /* @brief Has clock 3 output divider (register bit field CLKDIV1[OUTDIV3]). */
 #define FSL_FEATURE_SIM_DIVIDER_HAS_OUTDIV3 (1)
 /* @brief Has clock 4 output divider (register bit field CLKDIV1[OUTDIV4]). */
